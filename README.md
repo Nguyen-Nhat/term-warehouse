@@ -34,3 +34,5 @@ Author: CkxNhật
    - Trả hàng bán.  
    - Khi khách hàng trả lại hàng hóa, nó được nhập lại vào kho.
    - Prefix: RM-
+   - Từ RM -> FC-WMS -> WMS (ram events)
+   - Contact Info: của sàn hoặc nhân viên, không có case nào thuộc khách hàng
